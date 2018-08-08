@@ -1,0 +1,25 @@
+{
+  "name": "CLI-Word-Game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^6.1.0",
+    "random-word": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcarreon/CLI-Word-Game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcarreon/CLI-Word-Game/issues"
+  },
+  "homepage": "https://github.com/mcarreon/CLI-Word-Game#readme"
+}
