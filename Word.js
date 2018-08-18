@@ -21,7 +21,7 @@ Word.prototype.showWord = function () {
     this.wordArr.forEach(function (e) {
         returnWord += e + ' ';
     });
-    console.log(this.wordArr);
+    //console.log(this.wordArr);
     console.log(returnWord);
 }
 
